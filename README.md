@@ -17,7 +17,3 @@ Come to me to discuss.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&layout=compact" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PluginsKers&repo=NeteaseCloudMusicWall" />
-
-------
-
-> Last edited in 2021.4.28🔆
