@@ -22,6 +22,6 @@ Forget it, I should be sentimental. sad😭
 
 No matter what, you came here.💫
 
-Actually I have a lot of projects🌚But they are all hidden by me🌚Most of the reasons......🌚🌚
+Actually I have a lot of Repositories🌚But they are all hidden by me🌚Most of the reasons...🌚🌚
 
 I haven't finished writing them yet💧💧
