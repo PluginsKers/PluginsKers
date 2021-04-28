@@ -2,7 +2,7 @@
 
 Here is PluginsKers👋
 
-<a href="https://github.com/PluginsKers"><img align="right" src="https://github-readme-stats.vercel.app/api?username=PluginsKers&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_title=true&theme=dark" /></a>
+<a href="https://github.com/PluginsKers"><img align="right" src="https://github-readme-stats.vercel.app/api?username=PluginsKers&hide_title=true&theme=gruvbox" /></a>
 You found here, Hahahaha🧐
 
 You can contact me by email 👉ikers@foxmail.com
