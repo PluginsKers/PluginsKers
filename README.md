@@ -7,15 +7,17 @@ You found here, Hahahaha🧐
 
 You can contact me by email 👉ikers@foxmail.com
 
-📗📘📙📓📒
+📗📘📒📝📊📋📕📓📙
 
 Come to me to discuss.
 
-[CoooOOOOooooOooOoooooOOooooool💣](https://www.52craft.cc/)
+[Co💣OOooooOooO💣ooOOooool](https://www.52craft.cc/)
 
 ------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&layout=compact" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PluginsKers&repo=NeteaseCloudMusicWall" />
 
-<p>Last edited in 2021.4.28🔆</p>
+------
+
+> Last edited in 2021.4.28🔆
