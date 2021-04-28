@@ -4,10 +4,6 @@
 
 <h3>MY GITHUB STATS:</h3>
 
-<a href="https://github.com/Tommy131/Tommy131">
-  <img src="https://github-readme-stats.vercel.app/api?username=PluginsKers&show_icons=true&theme=white">
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PluginsKers&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <br/>
-<a href="https://www.owoblog.com">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&show_icons=true&theme=white">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&show_icons=true">
