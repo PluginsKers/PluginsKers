@@ -11,9 +11,14 @@ You can contact me by email 👉ikers@foxmail.com
 
 Come to me to discuss.
 
-[Co💣OOooooOooO💣ooOOooool](https://www.52craft.cc/)
+[Co💣OOooooOooO💣ooOOoo🌟l](https://www.52craft.cc/)
 
 ------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PluginsKers&repo=NeteaseCloudMusicWall" />
+
+🍀You have never heard of my story, have you?🍀
+
+Forget it, I should be sentimental. sad😭
+
+No matter what, you came here.💫
