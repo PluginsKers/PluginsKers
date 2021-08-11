@@ -4,15 +4,15 @@
 
 Here is PluginsKers👋
 
-You can contact me by email 👉ikers@foxmail.com
+You can contact me by email 👉 ikers@foxmail.com
+
+My Site 👉 https://www.52craft.cc/
 
 📗📘📒📝📊📋📕📓📙
 
-My Site: [Co💣OOooooOooO💣ooOOoo🌟l](https://www.52craft.cc/)
-
 <a href="https://github.com/PluginsKers?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PluginsKers&layout=compact&theme=gruvbox" /></a>
 
-🍀You have never heard of my story, have that?🍀
+You have never heard of my story, have that?🍀
 
 No matter what, you came here.💫
 
