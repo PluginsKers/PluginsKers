@@ -2,11 +2,11 @@
 
 <a href="https://github.com/PluginsKers"><img align="right" src="https://github-readme-stats.vercel.app/api?username=PluginsKers&hide_title=true&theme=gruvbox" /></a>
 
-📗Here is PluginsKers👋
+Here is PluginsKers👋
 
-📘You can contact me by email 👉 ikers@foxmail.com
+You can contact me by email ikers@foxmail.com
 
-📒My Site 👉 https://www.heurl.cn/  :D
+My Site https://www.heurl.cn/ :D
 
 ```html
 <hr /> <!-- this is a line -->
