@@ -16,12 +16,8 @@
 
 ```html
 <br /> <!-- this is a line too -->
+<br /> <!-- this is a line too -->
+<br /> <!-- this is a line too -->
+<br /> <!-- this is a line too -->
+<br /> <!-- this is a line too -->
 ```
-
-📝You have never heard of my story, have that?🍀
-
-📊No matter what, you came here.💫
-
-📋Actually I have a lot of repos🌚But they are all hidden by me🌚Most of the reasons...🌚🌚
-
-📕I haven't finished writing them yet lol
