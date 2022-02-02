@@ -6,7 +6,9 @@ Here is PluginsKers👋
 
 You can contact me by email ikers@foxmail.com
 
-My Site https://www.heurl.cn/ :D
+Blog https://www.heurl.cn/
+
+My ScreenLiving Show https://motd.cool/
 
 ```html
 <hr /> <!-- this is a line -->
