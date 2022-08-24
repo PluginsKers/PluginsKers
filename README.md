@@ -19,11 +19,11 @@
 <br />
 
 <div align="center">
-  <h2>🙋 Hello</h2>
+  <h2>🙋 Hello!</h2>
 </div>
 
 <div align="center">
-  <p>✍️&nbsp;&nbsp;欢迎您的到来，这是 PluginsKers！总是能直击一些东西的神奇码猿。</p>
+  <p>✍️&nbsp;&nbsp;欢迎您的到来，这是 PluginsKers ！总是能直击一些东西的神奇码猿。</p>
 </div>
 
 <br /><br />
@@ -40,7 +40,7 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<br />
+<br /><br />
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
@@ -49,7 +49,7 @@
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
-<br />
+<br /><br />
 
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
