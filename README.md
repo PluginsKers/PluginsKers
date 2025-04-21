@@ -17,6 +17,13 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:ikers@foxmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
 ### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -33,13 +40,8 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=PluginsKers&theme=tokyonight&hide_border=true" />
+  <p></p>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=PluginsKers&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:ikers@foxmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
