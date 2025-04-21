@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[SemanDoc](https://gtihub.com/PluginsKers/SemanDoc)**
+- 🔭 I’m currently working on **[SemanDoc](https://github.com/PluginsKers/SemanDoc)**
 - 🌱 I’m currently learning **[React / Next.js / Node.js / Python / AI...]**
 - 💬 Ask me about **Web Dev, Open Source, Tech Life**
 - 📫 How to reach me: **[ikers@foxmail.com]**
